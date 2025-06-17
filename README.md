@@ -1,9 +1,21 @@
 <h2 align="left">Hi 👋! My name is Ashish Kumar Rana</h2>
 <p align="left">🚀 I'm a B.Tech CSE student passionate about Web Development, Cloud, and AI. Always eager to learn and build innovative projects!</p>
+<p align="left">🌟 Skills & Technologies:
+Programming: C++, Python Web Development: React.js, HTML, CSS, JavaScript, Bootstrap Design Tools: Figma, Photoshop</p>
+<p align="left">🚀 Projects:
+Emotion Recognition System: Integrating body gesture and facial expression detection. Chat Application: Terminal-based app with multithreading for real-time communication.</p>
+<p align="left">💡 Certifications:– Google Digital Marketing & E-commerce, by (Coursera) 
+– Visual Reasoning Course, by (Unstop) 
+– Foundation: Data, Data, everywhere (Google), by (Coursera)</p>
+<p align="left">📚 Internships:
+ Intern, Websetters Private Limited June. 2024 - July. 2024
+– Gained practical experience in web development and digital marketing.
+– Enhanced website performance by 25% and organic traffic by 20%, by redesigning landing pages, optimizing SEO 
+elements, and contributing to blog content and social media strategy.
+– Accelerated team productivity by 15%, by managing CMS tasks and collaborating across departments using 
+project management tools like Trello and Google Workspace.
 
-
-###
-
+</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AshishRana28&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AshishRana28&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
