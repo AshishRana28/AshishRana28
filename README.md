@@ -7,14 +7,10 @@ Emotion Recognition System: Integrating body gesture and facial expression detec
 <p align="left">💡 Certifications:– Google Digital Marketing & E-commerce, by (Coursera) 
 – Visual Reasoning Course, by (Unstop) 
 – Foundation: Data, Data, everywhere (Google), by (Coursera)</p>
-<p align="left">📚 Internships:
- Intern, Websetters Private Limited June. 2024 - July. 2024
-– Gained practical experience in web development and digital marketing.
-– Enhanced website performance by 25% and organic traffic by 20%, by redesigning landing pages, optimizing SEO 
+<p align="left">📚 Internships: Websetters Private Limited June. 2024 - July. 2024 </p>
+<p>
+– Gained practical experience in web development and digital marketing by Enhanced website performance by 25% and organic traffic by 20%, by redesigning landing pages, optimizing SEO 
 elements, and contributing to blog content and social media strategy.
-– Accelerated team productivity by 15%, by managing CMS tasks and collaborating across departments using 
-project management tools like Trello and Google Workspace.
-
 </p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AshishRana28&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -53,7 +49,9 @@ project management tools like Trello and Google Workspace.
   <a href="mailto:ashishkumarrana@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </a>
+ <a href="www.linkedin.com/in/ashishrana28">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</a>
 </div>
 
 ###
