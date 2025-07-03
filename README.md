@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Ashish Kumar Rana</h2>
 <p align="left">🚀 I'm a B.Tech CSE student passionate about Web Development, Cloud, and AI. Always eager to learn and build innovative projects!</p>
 <p align="left">🌟 Skills & Technologies:
-Programming: C++, Python Web Development: React.js, HTML, CSS, JavaScript, Bootstrap Design Tools: Figma, Photoshop</p>
+Programming: C++, Python, Web Development: React.js, HTML, CSS, JavaScript, Bootstrap Design Tools: Figma, Photoshop</p>
 <p align="left">🚀 Projects:
 Emotion Recognition System: Integrating body gesture and facial expression detection. Chat Application: Terminal-based app with multithreading for real-time communication.</p>
 <p align="left">💡 Certifications:– Google Digital Marketing & E-commerce, by (Coursera) 
